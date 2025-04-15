@@ -1,4 +1,4 @@
-## Welcome to Team MBM!
+## Welcome to the Github Organization for Team MarineBioMaps(MBM)!
 
 The Marine Life Protection Act of 1999 endeavors to protect the “natural diversity and abundance of marine life” along the California coastline and its nearshore environments, with the goal of promoting marine habitats, ecosystems, and marine natural heritage. In pursuit of informing these goals, substantial advances in Marine Protected Area (MPA) habitat measuring have occurred since the initial MPA planning process, including the use of remote sensing data. However, there is still a need for statewide visual understanding and statistical analysis of the distribution of habitat types within MPAs. 
 
