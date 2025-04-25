@@ -2,7 +2,7 @@
 
 This is a capstone project for the [Master of Environmental Data Science Program](https://bren.ucsb.edu/masters-programs/master-environmental-data-science) at [Bren School of Environmental Science and Management](https://bren.ucsb.edu), University of California, Santa Barbara
 
-For the official project description on the Bren website, click [here](https://bren.ucsb.edu/projects/evaluating-protection-diverse-and-representative-coastal-and-marine-habitats-within)
+For the official project description on the Bren website, click [here](https://bren.ucsb.edu/projects/evaluating-protection-diverse-and-representative-coastal-and-marine-habitats-within).
 
 ## Abstract 
 The Marine Life Protection Act of 1999 endeavors to protect the “natural diversity and abundance of marine life” along the California coastline and its nearshore environments, with the goal of promoting marine habitats, ecosystems, and marine natural heritage*. In pursuit of informing these goals, substantial advances in Marine Protected Area (MPA) habitat measuring have occurred since the initial MPA planning process, including the use of remote sensing data. However, there is still a need for statewide visual understanding and statistical analysis of the distribution of habitat types within MPAs. 
@@ -29,9 +29,13 @@ This organization is home to 5 different repositories.
 
 ## Client, Advisor and Contributors
 Cori Lopazanski, PhD Candidate, Bren School. Client
+
 Dr. Joshua Smith, Ocean Conservation Research Scientist, Monterey Bay Aquarium. Client
+
 Dr. Samantha Stevenson-Karl, Associate Professor, Bren School. Advisor
+
 Dr. Carmen Galaz García, Assistant Teaching Professor, Bren School. Faculty Advisor
+
 
 ## MarineBioMaps Team
 Madison Enda
