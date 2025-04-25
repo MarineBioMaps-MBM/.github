@@ -38,9 +38,11 @@ Dr. Carmen Galaz García, Assistant Teaching Professor, Bren School. Faculty Adv
 
 
 ## MarineBioMaps Team
-Madison Enda
-Bailey Jørgensen
-Michelle Yiv
+Madison Enda ([Github](https://github.com/madisonenda) | [Linkedin]() | [Website](https://madisonenda.github.io/))
+
+Bailey Jørgensen ([Github](https://github.com/jorb1) | [Linkedin](https://www.linkedin.com/in/bailey-jorgensen-a0a467271/) | [Website](https://jorb1.github.io/))
+
+Michelle Yiv ([Github](https://github.com/mmyiv) | [Linkedin](https://www.linkedin.com/in/michelle-yiv-2784021ba/) | [Website](https://mmyiv.github.io/))
 
 ## References 
 *(1999). Marine Life Protection Act, California Department of Fish and Wildlife. https://wildlife.ca.gov/Conservation/Marine/MPAs/MLPA 
