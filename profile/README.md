@@ -11,13 +11,13 @@ Our team will integrate existing spatial habitat datasets to generate map layers
 ## Data Sources
 | **Data**                                | **Data Type**                                                                 | **Source**                                                               |
 |-----------------------------------------|------------------------------------------------------------------------------|--------------------------------------------------------------------------|
-| California MPAs shapefiles              | .cpg, .dbf, .prg, .shp, .shx, .xml                                           | CA Department of Fish and Wildlife                                       |
-| Substrate (rock vs. sediment)           | .freelist, .gdbtable, .gbdtablx, .horizon, .atx, .gbindexes, .spx          | PMEP Nearshore Substrate Component                                       |
-| Nearshore biotic habitat                | .freelist, .gdbtable, .gbdtablx, .horizon, .atx, .gbindexes, .spx          | PMEP Nearshore Biotic Component                                          |
+| California MPAs shapefiles              | .cpg, .dbf, .prg, .shp, .shx, .xml                                           | [CA Department of Fish and Wildlife](https://data.ca.gov/dataset/california-marine-protected-areas-ds582)                                       |
+| Substrate (rock vs. sediment)           | .freelist, .gdbtable, .gbdtablx, .horizon, .atx, .gbindexes, .spx          | [PMEP Nearshore Substrate Component](https://www.pacificfishhabitat.org/data/nearshore-cmecs-substrate-habitat/)                                       |
+| Nearshore biotic habitat                | .freelist, .gdbtable, .gbdtablx, .horizon, .atx, .gbindexes, .spx          | [PMEP Nearshore Biotic Component](https://www.pacificfishhabitat.org/data/nearshore-cmecs-biotic-habitat/)                                          |
 | Bathymetry                              | .tif, .csv                                                                  | NOAA West Coast Deep Sea Coral Initiative, via client (Google Drive)     |
-| Kelp forest canopy cover                | .csv                                                                        | KelpWatch                                                                 |
-| Biotic cover within estuaries           | .freelist, .gdbtable, .gbdtablx, .horizon, .atx, .gbindexes, .spx          | PMEP Estuarine Biotic Component                                          |
-| Eelgrass extent                         | .gdb                                                                        | PMEP Eelgrass Habitat                                                    |
+| Kelp forest canopy cover                | .csv                                                                        | [KelpWatch](https://kelpwatch.org/map?zoom=4.19667&center=-125.13024%2C32.82854)                                                                 |
+| Biotic cover within estuaries           | .freelist, .gdbtable, .gbdtablx, .horizon, .atx, .gbindexes, .spx          | [PMEP Estuarine Biotic Component](https://www.pacificfishhabitat.org/data/estuarine-biotic-habitat)                                          |
+| Eelgrass extent                         | .gdb                                                                        | [PMEP Eelgrass Habitat](https://www.pacificfishhabitat.org/data/west-coast-usa-eelgrass-habitat/)                                                    |
 
 ## Repositories
 This organization is home to 5 different repositories.
