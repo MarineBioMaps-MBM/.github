@@ -1,6 +1,6 @@
 # Evaluating the protection of diverse and representative coastal and marine habitats within California’s Marine Protected Area (MPA) network
 
-![review](https://github.com/user-attachments/assets/69d0e4d9-53fb-49bb-9ab4-acb99291568b)
+![review](https://github.com/user-attachments/assets/8ec11807-64a0-4dc1-8ab2-9e0f980e64ea)
 
 This is a capstone project for the [Master of Environmental Data Science Program](https://bren.ucsb.edu/masters-programs/master-environmental-data-science) at [Bren School of Environmental Science and Management](https://bren.ucsb.edu), University of California, Santa Barbara
 
