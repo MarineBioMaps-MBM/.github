@@ -24,6 +24,7 @@ Our team will integrate existing spatial habitat datasets to generate map layers
 ## Repositories
 This organization is home to 5 different repositories.
 - rds_creation: This repository's sole purpose is to document the creation of .RDS files used for MPA analysis
+- absolute_abundances: This repository contains the qmd ran to calculate absolute abundances of habitat layers and export the results as a csv
 - Biota: This repository houses data cleaning and MPA analysis for the biotic layer.
 - Substrate: This repository houses data cleaning and MPA analysis for the substrate layer.
 - Bathymetry: This repository houses data cleaning and MPA analysis for depth zones.
